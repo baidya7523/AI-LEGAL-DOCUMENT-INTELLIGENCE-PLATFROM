@@ -23,9 +23,7 @@ tiktoken
 
 gtts
 
-SpeechRecognition
 
-pyaudio
 
 numpy
 sqlalchemy
